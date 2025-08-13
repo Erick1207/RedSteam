@@ -1,0 +1,591 @@
+
+.container{
+    width: 1500px;
+    margin: auto;
+    height: 3000px;
+}
+
+.container img{
+    width: 100%; 
+    position: absolute;
+}
+
+.REDSTEAM{
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+    display: inline-block;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: "Verdana";
+}
+
+.SUBTITULO{
+    font-size: 20px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 50%;
+    left: 39%;
+    font-weight: 400;
+}
+
+.BIBLIOTECA{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 57%;
+    left: 46%;
+    font-weight: 400;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+.STEAM{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 5%;
+    left: 3%;
+    font-weight: 400;
+    background-color: transparent;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.LISTADEDESEJOS{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 5%;
+    left: 87%;
+    font-weight: 400;
+    background-color: transparent;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.INICIO{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 5%;
+    left: 81%;
+    font-weight: 400;
+    background-color: transparent;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.containermain{
+    width: 10px;
+    margin: auto;
+}
+
+.OFERTAS{
+    font-size: 60px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 85%;
+    left: 40.5%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.containermain img{
+    position: absolute;
+    width: 640px;
+    height: 480px;
+    align-items: right;
+    top: 110%;
+    left: 55%;
+}
+
+.ELDENRING{
+    font-size: 40px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 105%;
+    left: 5%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.descrição1{
+    font-size: 20px;
+    color: #666666;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 115%;
+    left: 5%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.COMPRAR{
+    font-size: 25px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 125%;
+    left: 5%;
+    font-weight: 400;
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.ADICIONAR{
+    font-size: 25px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 125%;
+    left: 14%;
+    font-weight: 400;
+    background-color: #a7a7a7;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.containermain2 img{
+    position: absolute;
+    width: 580px;
+    height: 530px;
+    align-items: left;
+    top: 182%;
+    left: 4%;
+}
+
+.ASTRONEER{
+    font-size: 40px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 178%;
+    left: 80%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.descrição2{
+    font-size: 20px;
+    color: #666666;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 189%;
+    left: 84%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.COMPRAR2{
+    font-size: 25px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 200%;
+    left: 71%;
+    font-weight: 400;
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.ADICIONAR2{
+    font-size: 25px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 200%;
+    left: 80%;
+    font-weight: 400;
+    background-color: #a7a7a7;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.containermain3{
+    background-color: #922214;
+    position: absolute;
+    top: 270%;
+    width: 1500px;
+    height: 1090px;
+}
+
+.containermain3 h6{
+    font-size: 60Px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: -4%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.containermain3 img{
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    align-items: center;
+    top: 17%;
+    left: 4%;
+    display: inline-block;
+    gap: 5px;
+    justify-content: center;
+}
+
+.FIFA{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 90%;
+    left: 4%;
+    font-weight: 800;
+    background-color: transparent;
+}
+
+.descrição3{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: left;
+    position: absolute; 
+    display: block;
+    top: 93%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.PREÇO1{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 97%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.containermain4 img{
+    position: absolute;
+    width: 580px;
+    height: auto;
+    align-items: center;
+    top: 17%;
+    left: 59%;
+    display: inline-block;
+    justify-content: center;
+    gap: 3px;
+}
+
+.MINECRAFT{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 45%;
+    left: 59%;
+    font-weight: 800;
+    background-color: transparent;
+}
+
+.descrição4{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 48%;
+    left: 59%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.PREÇO2{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 50.5%;
+    left: 59%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.containermain5 img{
+    position: absolute;
+    width: 580px;
+    height: auto;
+    align-items: center;
+    top: 52%;
+    left: 59%;
+    display: inline-block;
+    justify-content: center;
+    gap: 3px;
+}
+
+.FORTNITE{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 83%;
+    left: 59%;
+    font-weight: 800;
+    background-color: transparent;
+}
+
+.descrição5{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 86%;
+    left: 59%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.PREÇO3{
+    font-size: 15px;
+    color: white;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 88.5%;
+    left: 59%;
+    font-weight: 600;
+    background-color: transparent;
+}
+.SEÇÃO{
+    font-size: 50px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: center;
+    position: absolute; 
+    display: block;
+    top: 421%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.INTERNETCONTA{
+    width: 3000px;
+    margin: auto;
+    height: 300px;
+    display: flex;
+}
+
+.INTERNETTÍTULO{
+    font-size: 20px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: left;
+    position: absolute; 
+    display: block;
+    top: 430%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+    justify-content: space-between;
+}
+
+.INTERNETH14{
+    font-size: 15px;
+    color: #666666;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: left;
+    position: absolute; 
+    display: flex;
+    top: 433.5%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+    justify-content: space-between;
+}
+
+.CONTATÍTULO{
+    font-size: 20px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: left;
+    position: absolute; 
+    display: block;
+    top: 430%;
+    left: 50%;
+    font-weight: 600;
+    background-color: transparent;
+    z-index: 2;
+}
+
+.CONTAH16{
+    font-size: 15px;
+    color: #666666;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: left;
+    position: static; 
+    display: block;
+    top: 430%;
+    left: 50%;
+    font-weight: 600;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.SEGURANÇA{
+    width: 3000px;
+    margin: auto;
+    height: 300px;
+    display: flex;
+}
+
+.SEGURANÇATÍTULO{
+    font-size: 20px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: left;
+    position: absolute; 
+    display: block;
+    top: 450%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+    justify-content: space-between;
+}
+
+.SEGURANÇAH18{
+    font-size: 15px;
+    color: #666666;
+    font-family: "Helvetica";
+    align-items: left;
+    text-align: left;
+    position: absolute; 
+    display: flex;
+    top: 453.5%;
+    left: 4%;
+    font-weight: 600;
+    background-color: transparent;
+    justify-content: space-between;
+}
+
+.DATASTÍTULO{
+    font-size: 20px;
+    color: black;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: left;
+    position: absolute; 
+    display: flex;
+    top: 450%;
+    left: 50%;
+    font-weight: 600;
+    background-color: transparent;
+    z-index: 2;
+}
+
+.DATASH20{
+    font-size: 15px;
+    color: #666666;
+    font-family: "Helvetica";
+    align-items: right;
+    text-align: left;
+    position: relative; 
+    display: block;
+    top: -9%;
+    left: 25%;
+    font-weight: 600;
+    background-color: transparent;
+    z-index: 1;
+}
