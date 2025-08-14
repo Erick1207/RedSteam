@@ -133,7 +133,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 55%;
+    top: 50%;
     left: 54%;
     font-weight: 400;
     background-color: black;
@@ -149,7 +149,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 55%;
+    top: 50%;
     left: 63%;
     font-weight: 400;
     background-color: #a7a7a7;
@@ -179,7 +179,7 @@
     text-align: left;
     position: absolute; 
     display: block;
-    top: 175%;
+    top: 160%;
     left: 54.5%;
     font-weight: 600;
     background-color: transparent;
@@ -193,7 +193,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 186%;
+    top: 168%;
     left: 54.5%;
     font-weight: 600;
     background-color: transparent;
@@ -207,7 +207,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 195%;
+    top: 180%;
     left: 54.5%;
     font-weight: 400;
     background-color: black;
@@ -223,7 +223,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 195%;
+    top: 180%;
     left: 63.5%;
     font-weight: 400;
     background-color: #a7a7a7;
@@ -239,7 +239,7 @@
     text-align: left;
     position: absolute; 
     display: block;
-    top: 273.5%;
+    top: 258.5%;
     left: 54%;
     font-weight: 600;
     background-color: transparent;
@@ -253,7 +253,7 @@
     text-align: left;
     position: absolute; 
     display: block;
-    top: 288%;
+    top: 284%;
     left: 54.5%;
     font-weight: 600;
     background-color: transparent;
@@ -267,7 +267,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 297%;
+    top: 287%;
     left: 54.5%;
     font-weight: 600;
     background-color: transparent;
@@ -281,7 +281,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 307%;
+    top: 305%;
     left: 54.5%;
     font-weight: 400;
     background-color: black;
@@ -297,7 +297,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 307%;
+    top: 305%;
     left: 63.5%;
     font-weight: 400;
     background-color: #a7a7a7;

@@ -267,7 +267,7 @@
     height: 1090px;
 }
 
-.containermain3 h6{
+.EMALTA{
     font-size: 60Px;
     color: white;
     font-family: "Helvetica";
@@ -355,7 +355,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 45%;
+    top: 44%;
     left: 59%;
     font-weight: 800;
     background-color: transparent;
@@ -369,7 +369,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 48%;
+    top: 47%;
     left: 59%;
     font-weight: 600;
     background-color: transparent;
@@ -383,7 +383,7 @@
     text-align: center;
     position: absolute; 
     display: block;
-    top: 50.5%;
+    top: 49.5%;
     left: 59%;
     font-weight: 600;
     background-color: transparent;
@@ -517,7 +517,7 @@
     position: static; 
     display: block;
     top: 430%;
-    left: 50%;
+    left: 100%;
     font-weight: 600;
     background-color: transparent;
     z-index: 1;
